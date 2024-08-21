@@ -8,7 +8,9 @@ Esta es una aplicación de gestión de tareas que consta de un backend en Python
 Estructura del Proyecto
 
 backend/: Contiene la implementación del backend.
+
 frontend/: Contiene la implementación del frontend.
+
 docker-compose.yml: Archivo de configuración para Docker Compose.
 
 Requisitos
@@ -19,8 +21,8 @@ Docker Compose
 INSTALACION
 
 Clonar el Repositorio
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone git@github.com:Haku31/tasks.git
+cd tasks
 
 Construir y Ejecutar los Contenedores
 En la raíz del proyecto, ejecuta:
